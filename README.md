@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Bhakti Patel 👋
 ### 🚀 Website Developer | Crafting Digital Experiences
 
 I am a passionate Website Developer dedicated to building responsive, accessible, and high-performance web applications. I love turning complex problems into elegant, clean code.
